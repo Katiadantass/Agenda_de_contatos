@@ -1,4 +1,4 @@
-### ***Projeto 2 - Mmódulo 8*** ###
+### **Projeto 2 - Módulo 8** ###
 
 Na tarefa deste módulo, você irá criar uma aplicação de agenda de contatos.
 
@@ -14,7 +14,7 @@ telefone
 
 ### 💻 **Demonstração** ###
 
-Para visualizar uma prévia do projeto [clique aqui]
+Para visualizar uma prévia do projeto [clique aqui](https://vercel.com/katiadantass-projects/agenda-de-contatos)
 
 ### 🙋 **Autora** ###
 
